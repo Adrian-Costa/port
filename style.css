@@ -8,6 +8,7 @@
     color: white;
     font-family: Josefin Sans, Arial, Helvetica, sans-serif;
     transition-timing-function: ease;
+    overflow: hidden;
 }
 
 body, html{
