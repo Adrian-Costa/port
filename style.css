@@ -67,6 +67,8 @@ p{
     background-color: rgba(0, 0, 0, 0.514);
     padding: 10px 0px;
     border-radius: 10px;
+    width: 470px;
+    align-items: center;
 }
 h3{
     font-size: 2em;
