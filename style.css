@@ -8,7 +8,6 @@
     color: white;
     font-family: Josefin Sans, Arial, Helvetica, sans-serif;
     transition-timing-function: ease;
-    overflow: hidden;
 }
 
 body, html{
@@ -17,7 +16,7 @@ body, html{
     height: 100vh;
 }
 header{
-    background-image: url(pexels-anni-roenkae-2832382.jpg);
+    background-image: url('pexels-anni-roenkae-2832382.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -48,7 +47,7 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 4em;
     margin: 20px;
-    width: 500px;
+    width: 450px;
 }
 #nome{
     color: rgb(104, 104, 255);
