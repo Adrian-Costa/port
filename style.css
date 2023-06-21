@@ -108,10 +108,10 @@ li > a:hover{
 }
 footer{
     background-color: rgb(9, 0, 37);
-    text-align: center;
     margin: 50px 0px 0px 0px;
 }
 footer > p{
     color: rgb(9, 0, 37);
     padding: 7px;
+    text-align: center;
 }
