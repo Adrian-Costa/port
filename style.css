@@ -49,14 +49,17 @@ h1{
     margin: 20px;
     width: 450px;
     font-weight:  bolder;
+    text-shadow: -7px 3px 1px rgb(77, 77, 77);
 }
 #nome{
     color: rgb(104, 104, 255);
+    text-shadow: -7px 3px 1px rgb(0, 0, 67);
 }
 h2{
     color: rgb(255, 0, 0);
     font-size: 2em;
     margin: -20px 20px 20px 20px;
+    text-shadow: -4px 1px 1px rgb(66, 0, 0);
 }
 p{
     margin: 30px;
