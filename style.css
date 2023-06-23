@@ -64,12 +64,15 @@ p{
     font-size: 1.2em;
     line-height: 27px;
 }
+main > section > p{
+    color: black;
+}
 #intro{
     display: grid;
     justify-items: center;
 }
 #p-header{
-    background-color: rgba(0, 0, 0, 0.514);
+    background-color: rgba(0, 0, 0, 0.57);
     padding: 10px 0px;
     border-radius: 10px;
     width: 95vw;
